@@ -1,0 +1,1 @@
+.\venv\Scripts\activate.bat & .\main_2023_16_04.py

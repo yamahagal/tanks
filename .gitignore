@@ -1,0 +1,8 @@
+.idea
+pygame-master
+venv
+morze
+Dima
+*.pyc
+settings/params1.txt
+settings/params2.txt
